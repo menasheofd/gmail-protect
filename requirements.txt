@@ -58,10 +58,6 @@ pyramid==1.10.2
 pyramid-jinja2==2.8
 Pyrebase==3.0.27
 pystray==0.14.4
-python-dateutil==2.8.0
-python-jwt==2.0.1
-pytz==2018.9
-pywin32-ctypes==0.2.0
 requests==2.11.1
 requests-oauthlib==1.2.0
 requests-toolbelt==0.7.0
