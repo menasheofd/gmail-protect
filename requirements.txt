@@ -41,7 +41,7 @@ oauth2client==3.0.0
 oauthlib==3.0.1
 PasteDeploy==2.0.1
 pefile==2018.8.8
-Pillow==5.4.1
+Pillow==6.2.0
 plaster==1.0
 plaster-pastedeploy==0.6
 player==0.6.1
