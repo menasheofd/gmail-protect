@@ -24,7 +24,7 @@ google-auth-httplib2==0.0.3
 google-auth-oauthlib==0.2.0
 googleapis-common-protos==1.5.8
 greenlet==0.4.15
-httplib2==0.12.1
+httplib2==0.18.0
 hupper==1.6.1
 idna==2.8
 infi==0.0.1
